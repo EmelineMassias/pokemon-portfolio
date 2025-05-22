@@ -4,12 +4,15 @@ export default class NewGameScene extends Phaser.Scene {
     }
 
     preload() {
-        // Chargement du portrait de Prof. Emix
-        this.load.image('emix', 'prof-emix.png')
+        // Portrait de Prof. Emix
+        this.load.image('emix', 'prof-emix2.png')
+
+        // Musique d’intro façon Pokémon départ
+        this.load.audio('theme', 'adventure-theme.mp3')
 
         // Dialogue d’intro façon Pokémon
         this.dialogue = [
-            "Bonjour jeune développeuse !",
+            "Bonjour jeune développeur !",
             "Je suis la Prof. Emix, et je vais te guider.",
             "Ce monde est rempli de projets passionnants !",
             "Prépare-toi à les explorer comme une vraie dresseuse de code.",
@@ -20,16 +23,25 @@ export default class NewGameScene extends Phaser.Scene {
     create() {
         this.cameras.main.setBackgroundColor('#000000')
 
-        this.add.rectangle(85, 150, 100, 200, 0x000000).setDepth(-1)
+        // Musique d'aventure qui commence
+        this.music = this.sound.add('theme', { loop: true, volume: 0.5 })
+        this.music.play()
 
-        this.add.image(85, 150, 'emix')
-            .setScale(0.19)
-            .setOrigin(0.5)
+        // Affichage avec effet fade-in
+        const width = this.cameras.main.width
+        const emix = this.add.image(0, 0, 'emix')
+            .setOrigin(0, 0)
+            .setDisplaySize(width, 240)
+            .setAlpha(0)
 
-        this.dialogueIndex = 0
-        this.isTyping = false
+        this.tweens.add({
+            targets: emix,
+            alpha: 1,
+            duration: 1000,
+            ease: 'Power2'
+        })
 
-        // Boîte de dialogue (fond gris clair)
+        // Boîte de dialogue
         this.dialogueBox = this.add.rectangle(200, 270, 360, 60, 0x222222)
             .setStrokeStyle(2, 0xffffff)
             .setOrigin(0.5)
@@ -49,6 +61,9 @@ export default class NewGameScene extends Phaser.Scene {
             wordWrap: { width: 340 }
         })
 
+        this.dialogueIndex = 0
+        this.isTyping = false
+
         this.typeText(this.dialogue[this.dialogueIndex])
 
         this.input.keyboard.on('keydown-SPACE', () => {
@@ -57,12 +72,13 @@ export default class NewGameScene extends Phaser.Scene {
                 if (this.dialogueIndex < this.dialogue.length) {
                     this.typeText(this.dialogue[this.dialogueIndex])
                 } else {
-                    this.scene.start('GameScene')
+                    this.scene.start('PlayerSetupScene', {
+                        music: this.music
+                    })
                 }
             }
         })
     }
-
 
     typeText(text) {
         this.isTyping = true

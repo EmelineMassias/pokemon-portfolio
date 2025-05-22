@@ -7,6 +7,7 @@
         // Son de navigation (bip sur ↑ ↓)
         this.load.audio('move', 'move-sound.mp3')
         this.load.image('logo', 'logo-emeline2.png')
+        this.load.audio('select', 'select-sound.wav')
     }
 
     create() {
@@ -66,10 +67,14 @@
     selectOption() {
         const selected = this.options[this.currentOption]
 
-        if (selected === 'Nouvelle Partie') {
-            this.scene.start('NewGameScene')
-        } else {
-            console.log(`Option sélectionnée : ${selected}`)
-        }
+        this.sound.play('select', { volume: 0.4 })
+
+        this.time.delayedCall(1500, () => {
+            if (selected === 'Nouvelle Partie') {
+                this.scene.start('NewGameScene')
+            } else {
+                console.log(`Option sélectionnée : ${selected}`)
+            }
+        })
     }
 }
