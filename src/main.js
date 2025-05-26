@@ -11,6 +11,12 @@ const config = {
     height: 300,
     parent: 'app',
     pixelArt: true,
+    physics: {
+        default: 'arcade',
+        arcade: {
+            debug: false // ou true si tu veux voir les hitboxes
+        }
+    },
     scene: [IntroScene, MenuScene, NewGameScene, PlayerSetupScene, GameScene],
     scale: {
         zoom: 2,

@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\dev\\Projets perso\\pokemon-portfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Projets perso\\pokemon-portfolio\\public\\tilemap_pastel_FULLY_EMBEDDED.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\tilemap_pastel_FULLY_EMBEDDED.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Projets perso\\pokemon-portfolio\\src\\scenes\\GameScene.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\scenes\\GameScene.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Projets perso\\pokemon-portfolio\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Projets perso\\pokemon-portfolio\\public\\tilemap_pastel_embedded.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\tilemap_pastel_embedded.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Projets perso\\pokemon-portfolio\\src\\scenes\\PlayerSetupScene.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\scenes\\PlayerSetupScene.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Projets perso\\pokemon-portfolio\\src\\scenes\\NewGameScene.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\scenes\\NewGameScene.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Projets perso\\pokemon-portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Projets perso\\pokemon-portfolio\\src\\scenes\\MenuScene.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -13,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Projets perso\\pokemon-portfolio\\src\\scenes\\IntroScene.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\scenes\\IntroScene.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Projets perso\\pokemon-portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Projets perso\\pokemon-portfolio\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,25 +49,75 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameScene.js",
+              "DocumentMoniker": "C:\\dev\\Projets perso\\pokemon-portfolio\\src\\scenes\\GameScene.js",
+              "RelativeDocumentMoniker": "src\\scenes\\GameScene.js",
+              "ToolTip": "C:\\dev\\Projets perso\\pokemon-portfolio\\src\\scenes\\GameScene.js",
+              "RelativeToolTip": "src\\scenes\\GameScene.js",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-22T15:13:26.732Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tilemap_pastel_FULLY_EMBEDDED.json",
+              "DocumentMoniker": "C:\\dev\\Projets perso\\pokemon-portfolio\\public\\tilemap_pastel_FULLY_EMBEDDED.json",
+              "RelativeDocumentMoniker": "public\\tilemap_pastel_FULLY_EMBEDDED.json",
+              "ToolTip": "C:\\dev\\Projets perso\\pokemon-portfolio\\public\\tilemap_pastel_FULLY_EMBEDDED.json",
+              "RelativeToolTip": "public\\tilemap_pastel_FULLY_EMBEDDED.json",
+              "ViewState": "AgIAAEcGAAAAAAAAAAAYwGkGAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T12:22:19.062Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "tilemap_pastel_embedded.json",
+              "DocumentMoniker": "C:\\dev\\Projets perso\\pokemon-portfolio\\public\\tilemap_pastel_embedded.json",
+              "RelativeDocumentMoniker": "public\\tilemap_pastel_embedded.json",
+              "ToolTip": "C:\\dev\\Projets perso\\pokemon-portfolio\\public\\tilemap_pastel_embedded.json",
+              "RelativeToolTip": "public\\tilemap_pastel_embedded.json",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T15:34:59.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerSetupScene.js",
+              "DocumentMoniker": "C:\\dev\\Projets perso\\pokemon-portfolio\\src\\scenes\\PlayerSetupScene.js",
+              "RelativeDocumentMoniker": "src\\scenes\\PlayerSetupScene.js",
+              "ToolTip": "C:\\dev\\Projets perso\\pokemon-portfolio\\src\\scenes\\PlayerSetupScene.js",
+              "RelativeToolTip": "src\\scenes\\PlayerSetupScene.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-22T13:33:37.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "NewGameScene.js",
               "DocumentMoniker": "C:\\dev\\Projets perso\\pokemon-portfolio\\src\\scenes\\NewGameScene.js",
               "RelativeDocumentMoniker": "src\\scenes\\NewGameScene.js",
               "ToolTip": "C:\\dev\\Projets perso\\pokemon-portfolio\\src\\scenes\\NewGameScene.js",
               "RelativeToolTip": "src\\scenes\\NewGameScene.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-22T08:12:07.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T08:12:07.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "IntroScene.js",
               "DocumentMoniker": "C:\\dev\\Projets perso\\pokemon-portfolio\\src\\scenes\\IntroScene.js",
               "RelativeDocumentMoniker": "src\\scenes\\IntroScene.js",
@@ -59,24 +125,23 @@
               "RelativeToolTip": "src\\scenes\\IntroScene.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-21T15:40:17.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T15:40:17.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "index.html",
               "DocumentMoniker": "C:\\dev\\Projets perso\\pokemon-portfolio\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\dev\\Projets perso\\pokemon-portfolio\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-21T15:08:11.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "MenuScene.js",
               "DocumentMoniker": "C:\\dev\\Projets perso\\pokemon-portfolio\\src\\scenes\\MenuScene.js",
               "RelativeDocumentMoniker": "src\\scenes\\MenuScene.js",
@@ -84,20 +149,20 @@
               "RelativeToolTip": "src\\scenes\\MenuScene.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-21T15:06:02.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T15:06:02.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "main.js",
               "DocumentMoniker": "C:\\dev\\Projets perso\\pokemon-portfolio\\src\\main.js",
               "RelativeDocumentMoniker": "src\\main.js",
               "ToolTip": "C:\\dev\\Projets perso\\pokemon-portfolio\\src\\main.js",
               "RelativeToolTip": "src\\main.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-21T15:05:35.764Z"
+              "WhenOpened": "2025-05-21T15:05:35.764Z",
+              "EditorCaption": ""
             }
           ]
         }

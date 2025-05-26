@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\src",
-    "\\src\\scenes"
+    "\\src"
   ],
-  "SelectedNode": "\\public",
+  "SelectedNode": "\\src\\main.js",
   "PreviewInSolutionExplorer": false
 }
